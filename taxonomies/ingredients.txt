@@ -19420,6 +19420,26 @@ fr:aubergines frites
 
 # CAULIFLOWER is one of several vegetables in the species Brassica oleracea in the genus Brassica, 
 
+<en:turnip
+fr:navet
+carbon_footprint_fr_foodges_ingredient:fr:Navet
+
+<en:celery
+fr:celery
+carbon_footprint_fr_foodges_ingredient:fr:Céleri
+
+<en:radish
+fr:radis
+carbon_footprint_fr_foodges_ingredient:fr:Radis
+
+<en:salad
+fr:salad
+carbon_footprint_fr_foodges_ingredient:fr:Salade
+
+<en:olive
+fr:olive
+carbon_footprint_fr_foodges_ingredient:fr:Olives "Pays du Sud" en boite
+
 <en:vegetable
 en:cauliflower 
 de:Blumenkohl
