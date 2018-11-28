@@ -25983,6 +25983,7 @@ de:Kirschtomaten
 
 fr:sauce tomate cuite
 fr:sauce tomate
+carbon_footprint_fr_foodges_ingredient:fr:Sauce tomate
 
 fr:pulpe de tomate
 
