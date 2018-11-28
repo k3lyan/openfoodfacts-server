@@ -8533,6 +8533,7 @@ ru:борошно з пшеннци тверднх сортив
 sl:pšenični zdrob durum
 tr:durum buğdayı ırmığı
 zh:硬质粗粒小麦粉
+carbon_footprint_fr_foodges_ingredient:fr:Semoule de blé dur
 
 <en:durum wheat semolina
 fr:semoule semi-complète de blé dur
